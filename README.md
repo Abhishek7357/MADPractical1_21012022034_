@@ -11,4 +11,6 @@ pract1
 ![image](https://user-images.githubusercontent.com/111722445/187090725-cac07f07-ddb9-4b27-a51e-5ba295c3a3be.png)
 ![image](https://user-images.githubusercontent.com/111722445/187090737-05be0678-9f16-40e1-afc4-442e71a83fde.png)
 ![image](https://user-images.githubusercontent.com/111722445/187090754-cae96bc9-3211-4502-a299-acbc2ec6a944.png)
+![image](https://user-images.githubusercontent.com/111722445/187090943-8b4870a8-bf3d-4a19-a959-3b9e13692c19.png)
+
 ![image](https://user-images.githubusercontent.com/111722445/187090761-6dcc72e9-a8f5-44ec-b1ce-94d04ea6d818.png)
